@@ -29,7 +29,7 @@ The game is free. It shows ads from Google AdMob, and they can be removed with a
 
 ## Support
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Built with Godot Engine (MIT license). The icon, sound effects and music were generated in code for this game.
 
@@ -59,4 +59,4 @@ Oyun ücretsizdir. Google AdMob reklamları gösterir; Google Play'den tek sefer
 
 ### Destek
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
