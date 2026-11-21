@@ -20,7 +20,7 @@ Cardlune is a classic solitaire (Klondike) game for Android. We have no accounts
 The game shows ads from **Google AdMob**:
 
 - a full-screen ad now and then after you finish a hand (never in the middle of a hand, never on the daily challenge, never right after you open the game), and
-- optional **rewarded ads**: you choose to watch one, for example to replay a day you missed.
+- optional **rewarded ads**: you choose to watch one to play a daily challenge you missed or to use "Back to solvable". If no ad is available, these are free.
 
 Ads can be removed for good with a one-time purchase. Ad content is limited to the "PG" (parental guidance) rating.
 
@@ -85,7 +85,7 @@ Cardlune, Android için klasik pasyans (Klondike) oyunudur. Hesap ve sunucumuz y
 Oyun **Google AdMob** reklamları gösterir:
 
 - bir eli bitirdikten sonra ara sıra tam ekran reklam (el ortasında, günlük meydan okumada ve oyunu açtığın anda asla) ve
-- isteğe bağlı **ödüllü reklamlar**: kaçırdığın günü yeniden oynamak gibi bir karşılık için izlemeyi sen seçersin.
+- isteğe bağlı **ödüllü reklamlar**: kaçırdığın bir günlük meydan okumayı oynamak ya da "Çözüme dön"ü kullanmak için izlemeyi sen seçersin. Reklam yoksa bunlar ücretsizdir.
 
 Reklamlar tek seferlik bir satın almayla kalıcı olarak kaldırılabilir. Reklam içeriği "PG" (ebeveyn rehberliği) derecesiyle sınırlıdır.
 
